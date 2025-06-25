@@ -1,6 +1,8 @@
 # fresh_kart
 
-A new Flutter project.
+Ecommerce App with Flutter and Express.js
+
+[Express Project](https://github.com/NishadAvnish/freekart_express)
 
 ## Getting Started
 
