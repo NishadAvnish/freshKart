@@ -24,7 +24,9 @@ This project is a learning project open to the community to learn
 2. In express make .env file and paste your MongoDB database link with 
 
      DB_URL= mongoURL
+
      PORT = 3000
+
      JWT_KEY= "psrbW5kTqEvxFL4r8p8G3S5rQb6UU1Gd" // update this with any random characters
 
 3. in terminal of express project type 
